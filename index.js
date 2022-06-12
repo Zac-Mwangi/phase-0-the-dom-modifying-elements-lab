@@ -9,5 +9,5 @@ const newHeader = document.createElement("h1");
 newHeader.id = "victory";
 
 // The innerText property would technically work as well; however, the tests won't pass if you use this approach
-newHeader.innerHTML = "YOUR-NAME is the champion";
+newHeader.innerHTML = "ZACK is the champion";
 
